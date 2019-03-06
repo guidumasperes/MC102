@@ -1,0 +1,10 @@
+A = {2, 5, 7}
+B = {}
+B c A
+A c B
+B = {5}
+B c A
+B = {1, 5}
+B c A
+A c B
+q
