@@ -1,2 +1,2 @@
-#MC102
+# MC102
 First experience with programming
